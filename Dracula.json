@@ -138,8 +138,8 @@
       "#44475a"
     ],
     "CHANNEL_ICON": [
-      "#b6b6b6",
-      "#b6b6b6"
+      "#b7b7b3",
+      "#b7b7b3"
     ],
     "CHAT_BACKGROUND": [
       "#282a36",
@@ -147,7 +147,7 @@
     ]
   },
   "colours": {
-    "PRIMARY_500": "#44475a",
+    "PRIMARY_500": "#b7b7b3",
     "PRIMARY_100": "#44475a",
     "PRIMARY_200": "#44475a",
     "PRIMARY_300": "#B6B6B6",
