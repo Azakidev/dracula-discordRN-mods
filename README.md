@@ -9,4 +9,8 @@ Download `Dracula.json` and move it into `AliucordRN/themes`, usually located at
 
 ## Screenshot
 
-![](Screenshots/screenshots-all.png)
+![](Screenshots/screenshots-1.png)
+
+Some from TabsV2
+
+![](Screenshots/screenshots-2.png)
