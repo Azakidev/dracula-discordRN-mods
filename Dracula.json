@@ -34,8 +34,8 @@
       "#d7c1f7"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#bd93f9",
-      "#bd93f9"
+      "#f8f8f2",
+      "#f8f8f2"
     ],
     "INTERACTIVE_MUTED": [
       "#b7b7b3",
@@ -78,8 +78,8 @@
       "#6272a4"
     ],
     "BACKGROUND_MENTIONED": [
-      "#b4a3cc",
-      "#b4a3cc"
+      "#6b4c98",
+      "#6b4c98"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#ffb86c",
@@ -90,8 +90,8 @@
       "#44475a"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#a2d7e1",
-      "#a2d7e1"
+      "#6272a4",
+      "#6272a4"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#282a36",
