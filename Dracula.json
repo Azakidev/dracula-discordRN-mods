@@ -2,13 +2,18 @@
   "name": "Dracula",
   "description": "A theme made by Fat Dawlf following dracula's color scheme",
   "version": "0.1.0",
+
   "authors": [
     {
       "name": "Fat Dawlf",
       "id": "332940870150258688"
     }
+
   ],
-  "theme_color_map": {
+
+  "spec": 2,
+
+  "semanticColors": {
     "HEADER_PRIMARY": [
       "#bd93f9",
       "#bd93f9"
@@ -146,7 +151,7 @@
       "#282a36"
     ]
   },
-  "colours": {
+  "rawColors": {
     "PRIMARY_500": "#b7b7b3",
     "PRIMARY_100": "#44475a",
     "PRIMARY_200": "#44475a",
