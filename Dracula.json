@@ -1,7 +1,7 @@
 {
   "name": "Dracula",
   "description": "A theme made by FatDawlf following dracula's color scheme",
-  "version": "V0.1.2",
+  "version": "V0.2.0",
 
   "authors": [
     {
@@ -15,105 +15,179 @@
 
   "semanticColors": {
     "HEADER_PRIMARY": [
+      "#bd93f9",
+      "#bd93f9",
       "#bd93f9"
     ],
     "HEADER_SECONDARY": [
-      "#f8f8f2"
+      "#f8f8f2",
+      "#f8f8f2",
+      "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#f8f8f2"
+      "#f8f8f2",
+      "#f8f8f2",
+      "#ffffff"
     ],
     "TEXT_MUTED": [
+      "#b7b7b3",
+      "#b7b7b3",
       "#b7b7b3"
     ],
+    "TEXT_LINK": [
+      "#bd93f9",
+      "#bd93f9",
+      "#717593"
+    ],
     "INTERACTIVE_NORMAL": [
+      "#a2d7e1",
+      "#a2d7e1",
       "#a2d7e1"
     ],
     "INTERACTIVE_HOVER": [
+      "#d7c1f7",
+      "#d7c1f7",
       "#d7c1f7"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#f8f8f2"
+      "#f8f8f2",
+      "#f8f8f2",
+      "#bd93f9"
     ],
     "INTERACTIVE_MUTED": [
+      "#b7b7b3",
+      "#b7b7b3",
       "#b7b7b3"
     ],
     "BACKGROUND_PRIMARY": [
-      "#282a36"
+      "#282a36",
+      "#282a36",
+      "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#282a36"
+      "#282a36",
+      "#282a36",
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#44475a"
-    ],
-    "BACKGROUND_TERTIARY": [
+      "#44475a",
+      "#44475a",
       "#282a36"
     ],
+    "BACKGROUND_TERTIARY": [
+      "#282a36",
+      "#282a36",
+      "#000000"
+    ],
     "BACKGROUND_ACCENT": [
+      "#bd93f9",
+      "#bd93f9",
       "#bd93f9"
+      
     ],
     "BACKGROUND_FLOATING": [
+      "#282a36",
+      "#282a36",
       "#282a36"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#282a36"
+      "#282a36",
+      "#282a36",
+      "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#44475a"
+      "#44475a",
+      "#44475a",
+      "#282a36"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#6272a4"
+      "#6272a4",
+      "#6272a4",
+      "#44475a"
     ],
     "BACKGROUND_MENTIONED": [
-      "#6b4c98"
+      "#6b4c98",
+      "#6b4c98",
+      "#5a5e77"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
+      "#ffb86c",
+      "#ffb86c",
       "#ffb86c"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#44475a"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#6272a4"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
+      "#44475a",
+      "#44475a",
       "#282a36"
     ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#6272a4",
+      "#6272a4",
+      "#5a5e77"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#282a36",
+      "#282a36",
+      "#000000"
+    ],
     "BACKGROUND_MODIFIER_ACCENT": [
+      "#bd93f9",
+      "#bd93f9",
       "#bd93f9"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#f8f8f2",
+      "#f8f8f2",
       "#f8f8f2"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#6272a4"
+      "#6272a4",
+      "#6272a4",
+      "#44475a"
     ],
     "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "transparent",
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
+      "#6272a4",
+      "#6272a4",
       "#6272a4"
     ],
     "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
+      "transparent",
       "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
+      "#6272a4",
+      "#6272a4",
       "#6272a4"
     ],
     "CHANNELS_DEFAULT": [
-      "#b6b6b6"
-    ],
-    "TEXT_LINK": [
-      "#bd93f9"
-    ],
-    "KEYBOARD": [
+      "#b6b6b6",
+      "#b6b6b6",
       "#44475a"
     ],
+    "KEYBOARD": [
+      "#44475a",
+      "#44475a",
+      "#282a36"
+    ],
     "CHANNEL_ICON": [
+      "#b7b7b3",
+      "#b7b7b3",
       "#b7b7b3"
     ],
     "CHAT_BACKGROUND": [
+      "#282a36",
+      "#282a36",
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#17181f",
+      "#17181f",
       "#282a36"
     ]
   },
