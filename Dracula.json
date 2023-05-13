@@ -195,12 +195,12 @@
     "PRIMARY_100": "#b7b7b3",
     "PRIMARY_200": "#44475a",
     "PRIMARY_300": "#B6B6B6",
-    "PRIMARY_360": "#282a36",
+    "PRIMARY_360": "#44475a",
     "PRIMARY_400": "#b6b6b6",
     "PRIMARY_500": "#b7b7b3",
     "PRIMARY_600": "#282a36",
     "PRIMARY_630": "#282a36",
-    "PRIMARY_700": "#282a36",
+    "PRIMARY_700": "#44475a",
     "PRIMARY_800": "#282a36",
     "BRAND_260": "#f8f8f2",
     "BRAND_500": "#bd93f9",
@@ -210,7 +210,7 @@
     "DANGER": "#ff5555",
     "RED_400": "#ff5555"
   },
-  "unsafe_colors": {
+  /*"unsafe_colors": {
     "CHAT_GREY": "#44475a"
-  }
+  }*/
 }
