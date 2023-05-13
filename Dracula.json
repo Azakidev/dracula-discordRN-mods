@@ -209,5 +209,8 @@
     "GREEN_600": "#50fa7b",
     "DANGER": "#ff5555",
     "RED_400": "#ff5555"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#44475a"
   }
 }
